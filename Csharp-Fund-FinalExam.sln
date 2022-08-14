@@ -3,21 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{0395BD0B-FDF7-4BDD-8520-D3232815C420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test", "test\test.csproj", "{0395BD0B-FDF7-4BDD-8520-D3232815C420}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Number of barcodes", "02.Number of barcodes\02.Number of barcodes.csproj", "{6F5EDEAC-B4B4-4BBC-B90A-D17744C8123A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Number of barcodes", "02.Number of barcodes\02.Number of barcodes.csproj", "{6F5EDEAC-B4B4-4BBC-B90A-D17744C8123A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Zoo World", "03.Zoo World\03.Zoo World.csproj", "{19E75DD7-EEA0-41A6-938A-1075345ABC8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.The Pianist", "03.Zoo World\03.The Pianist.csproj", "{19E75DD7-EEA0-41A6-938A-1075345ABC8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Easter Egg", "02. Easter Egg\02. Easter Egg.csproj", "{F4575EF5-5BAB-49E6-A897-6E8A92481A45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Easter Egg", "02. Easter Egg\02. Easter Egg.csproj", "{F4575EF5-5BAB-49E6-A897-6E8A92481A45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Followers", "03.Followers\03.Followers.csproj", "{F8BF1D60-BF23-4A95-B0D9-D3E6394D809D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Followers", "03.Followers\03.Followers.csproj", "{F8BF1D60-BF23-4A95-B0D9-D3E6394D809D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Password Validator", "01.Password Validator\01.Password Validator.csproj", "{93A748F9-F913-4FB3-A327-9CFABEE2C39D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Password Validator", "01.Password Validator\01.Password Validator.csproj", "{93A748F9-F913-4FB3-A327-9CFABEE2C39D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EncryptingPassword", "02.EncryptingPassword\02.EncryptingPassword.csproj", "{34B4F8F8-3621-486E-8A51-56B759706C81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EncryptingPassword", "02.EncryptingPassword\02.EncryptingPassword.csproj", "{34B4F8F8-3621-486E-8A51-56B759706C81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MessagesManager", "03.MessagesManager\03.MessagesManager.csproj", "{14478998-8D8E-4917-9570-44AE19E1786F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.MessagesManager", "03.MessagesManager\03.MessagesManager.csproj", "{14478998-8D8E-4917-9570-44AE19E1786F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Zoo Worldd", "03.Zoo Worldd\03.Zoo Worldd.csproj", "{1272A4ED-2AFC-4FEE-A8A2-C1B480AB9E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.HeroRecruitment", "03.HeroRecruitment\03.HeroRecruitment.csproj", "{B8EAE5A9-CFA3-486D-9A38-70E769439FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Messages", "05.Messages\05.Messages.csproj", "{5AA26436-904D-40C5-B029-815585A837ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BooksWorld", "02.BooksWorld\02.BooksWorld.csproj", "{81460961-7CA5-43AC-8187-D2AAAFFF09BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +65,22 @@ Global
 		{14478998-8D8E-4917-9570-44AE19E1786F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14478998-8D8E-4917-9570-44AE19E1786F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14478998-8D8E-4917-9570-44AE19E1786F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1272A4ED-2AFC-4FEE-A8A2-C1B480AB9E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1272A4ED-2AFC-4FEE-A8A2-C1B480AB9E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1272A4ED-2AFC-4FEE-A8A2-C1B480AB9E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1272A4ED-2AFC-4FEE-A8A2-C1B480AB9E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EAE5A9-CFA3-486D-9A38-70E769439FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EAE5A9-CFA3-486D-9A38-70E769439FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EAE5A9-CFA3-486D-9A38-70E769439FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EAE5A9-CFA3-486D-9A38-70E769439FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA26436-904D-40C5-B029-815585A837ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA26436-904D-40C5-B029-815585A837ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA26436-904D-40C5-B029-815585A837ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA26436-904D-40C5-B029-815585A837ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81460961-7CA5-43AC-8187-D2AAAFFF09BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81460961-7CA5-43AC-8187-D2AAAFFF09BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81460961-7CA5-43AC-8187-D2AAAFFF09BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81460961-7CA5-43AC-8187-D2AAAFFF09BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
